@@ -1,3 +1,3 @@
 # react-practice
 
-for study react
+to study react
