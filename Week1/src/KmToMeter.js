@@ -21,7 +21,7 @@ export function KmToMiles() {
         <input 
           value={flipped ? amount * 1000 : amount} 
           id="kilometer" 
-          type="number" 
+          type="number"  
           onChange={onChange}
           disabled={flipped}>
         </input>

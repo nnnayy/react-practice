@@ -11,7 +11,7 @@ export function MinutesTohours() {
     };
     const reset =()=> setAmount(0);
     const onFlip =()=> {
-        reset();
+        reset(); 
         setFlipped((current) => !current);
     };
   
