@@ -10,7 +10,6 @@ const onSelect =(event)=> {
   setIndex(event.target.value);
 };
 
-
   return (
     <div>
       <h1>Unit Converter</h1>
